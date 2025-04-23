@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ROOT\\Developer\\_uni\\_uni\\primer_semestre\\corte-1\\14-03-25\\c#\\c#.csproj": {}
+    "C:\\ROOT\\Developer\\_uni\\primer_semestre\\corte-1\\03-14-25\\c#\\c#.csproj": {}
   },
   "projects": {
-    "C:\\ROOT\\Developer\\_uni\\_uni\\primer_semestre\\corte-1\\14-03-25\\c#\\c#.csproj": {
+    "C:\\ROOT\\Developer\\_uni\\primer_semestre\\corte-1\\03-14-25\\c#\\c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ROOT\\Developer\\_uni\\_uni\\primer_semestre\\corte-1\\14-03-25\\c#\\c#.csproj",
+        "projectUniqueName": "C:\\ROOT\\Developer\\_uni\\primer_semestre\\corte-1\\03-14-25\\c#\\c#.csproj",
         "projectName": "c#",
-        "projectPath": "C:\\ROOT\\Developer\\_uni\\_uni\\primer_semestre\\corte-1\\14-03-25\\c#\\c#.csproj",
+        "projectPath": "C:\\ROOT\\Developer\\_uni\\primer_semestre\\corte-1\\03-14-25\\c#\\c#.csproj",
         "packagesPath": "C:\\Users\\MR.DEV\\.nuget\\packages\\",
-        "outputPath": "C:\\ROOT\\Developer\\_uni\\_uni\\primer_semestre\\corte-1\\14-03-25\\c#\\obj\\",
+        "outputPath": "C:\\ROOT\\Developer\\_uni\\primer_semestre\\corte-1\\03-14-25\\c#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
