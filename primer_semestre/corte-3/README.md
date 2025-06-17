@@ -1,3 +1,3 @@
-# No tubimos clase practica
+# Corte #3
 
-Como no tubimos clase no hicimos practicas
+Las clases en este corte fueron mayor mente para sacar nota y mucho conocimiento teorico
