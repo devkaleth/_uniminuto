@@ -1,0 +1,25 @@
+# Archivos y carpetas de compilación y temporales de .NET/C#
+[Oo]bj/             # Ignora todas las carpetas 'obj' (mayúscula o minúscula)
+[Bb]in/             # Ignora todas las carpetas 'bin' (salida de compilación)
+*.pdb               # Archivos de base de datos de programa (debugging)
+*.user              # Archivos de configuración de usuario de Visual Studio
+*.suo               # Archivos de opciones de la solución de Visual Studio
+*.vs/               # Carpeta .vs (cache de Visual Studio)
+.idea/              # Carpeta de JetBrains IDEs (Rider, IntelliJ)
+
+# Archivos y carpetas de NuGet (manejo de paquetes)
+*.nuget.cache       # Caché de NuGet
+*.assets.json       # Archivos generados por NuGet
+*.csproj.nuget.* # Archivos relacionados con NuGet en proyectos C#
+.vs/                # Carpeta .vs (cache de Visual Studio)
+packages/           # Carpeta de paquetes NuGet (en proyectos más antiguos)
+
+# Archivos de configuración generados
+*.GeneratedMSBuildEditorConfig.editorconfig # Archivos de configuración generados por MSBuild
+*.AssemblyInfo.cs   # Archivos de información de ensamblado generados
+*.AssemblyInfoInputs.cache # Caché de inputs de AssemblyInfo
+*.assets.cache      # Archivos de caché de assets
+
+# Ejecutables y archivos de salida
+*.exe               # Archivos ejecutables (como apphost.exe)
+*.dll               # Librerías dinámicas

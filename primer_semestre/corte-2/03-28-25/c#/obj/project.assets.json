@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MR.DEV\\.nuget\\packages\\": {},
+    "C:\\Users\\dev\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ROOT\\Developer\\_uni\\primer_semestre\\corte-2\\03-28-25\\c#\\c#.csproj",
+      "projectUniqueName": "C:\\ROOT\\_proyectos\\_uniminuto\\primer_semestre\\corte-2\\03-28-25\\c#\\c#.csproj",
       "projectName": "c#",
-      "projectPath": "C:\\ROOT\\Developer\\_uni\\primer_semestre\\corte-2\\03-28-25\\c#\\c#.csproj",
-      "packagesPath": "C:\\Users\\MR.DEV\\.nuget\\packages\\",
-      "outputPath": "C:\\ROOT\\Developer\\_uni\\primer_semestre\\corte-2\\03-28-25\\c#\\obj\\",
+      "projectPath": "C:\\ROOT\\_proyectos\\_uniminuto\\primer_semestre\\corte-2\\03-28-25\\c#\\c#.csproj",
+      "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+      "outputPath": "C:\\ROOT\\_proyectos\\_uniminuto\\primer_semestre\\corte-2\\03-28-25\\c#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\MR.DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
